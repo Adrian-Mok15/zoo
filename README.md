@@ -1,5 +1,4 @@
-# zoo-starter-code
-
+# Adrian's Zoo
 This repository is the website starter code for Assignment 1 - Zoo.
 
 Members:
